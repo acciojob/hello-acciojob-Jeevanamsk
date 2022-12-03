@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body{
+    background-color: black;
+}
+hello-accio-job{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+p{
+    
+    color: white;
+    margin-left: 32px;
+    padding: 10px;
+}
